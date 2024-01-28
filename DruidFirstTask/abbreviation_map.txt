@@ -1,0 +1,20 @@
+as: The asset for the time interval
+r: Regular tweets
+l: Low quality tweets
+a: Authorized bot tweets
+m: Malicious bot tweets
+sr: Sentiment of regular tweets
+sl: Sentiment of low quality tweets
+sa: Sentiment of authorized bot tweets
+sm: Sentiment of malicious bot tweets
+u: Unique amount of twitter accounts that posted (or tweet author id)
+k: Unique amount of keywords used in tweets (or keywords array)
+f: Total followers notified of tweets (or follower count of tweet author)
+ul: Total lists notified of tweets (or the amount of lists the tweet author is included in)
+fa: Total activity of accounts (How active are the posting accounts on twitter)
+en: Engagement (0=low, 1=med, 2=high)
+id: Tweet ID
+t: Tweet text
+uf: Amount of accounts the tweet author is following
+un: Name of the tweet author account
+__time: Time of the tweet

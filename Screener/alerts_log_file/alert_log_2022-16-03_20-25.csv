@@ -1,0 +1,4 @@
+3: EMA_BETTER 7 period low 1min; Alert: indicator < 3000000
+4: EMA_BETTER 12 period high 1min; Alert: indicator < 3000000
+5: EMA_BETTER 40 period open 1min; Alert: indicator < 3000000
+ticker_name,3,4,5,at_time

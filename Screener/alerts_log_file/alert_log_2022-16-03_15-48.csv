@@ -1,0 +1,2 @@
+2: StockPrice close 1min; Alert: indicator < 2000000
+ticker_name,2,at_time

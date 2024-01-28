@@ -2,5 +2,30 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AssetOverviewTable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Beetroot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BelotAI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChicagoML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CreateHumanAIGeneratedTextDataset" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitBranchingDocker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HotelTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JoanaMilkova" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVC-in-Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Monitoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MoreGames" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SEO-Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StockScreen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StocksAutomation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StocktwitsScraper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bet365-websocket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firstML/My-Projects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firstML/firstML" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/language_tool_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mrazqgit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ngram-language-model" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oss_nlp_tools_demos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reddit_ingestion_script" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smart-locker-BE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smart-locker-fe" vcs="Git" />
   </component>
 </project>

@@ -1,0 +1,5 @@
+5: MA 40 period close 1min; Alert: indicator < 3000000
+6: EMA 21 period close 1min; Alert: indicator < 3000000
+7: EMA 8 period close 1min; Alert: indicator < 3000000
+8: RSI 14 period close 1min; Alert: indicator < 3000000
+ticker_name,5,6,7,8,at_time

@@ -1,0 +1,5 @@
+5: EMA 21 period open 1min; Alert: indicator < 3000000
+6: EMA 9 period high 1min; Alert: indicator < 3000000
+7: EMA 18 period low 1min; Alert: indicator < 3000000
+8: EMA 6 period close 1min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

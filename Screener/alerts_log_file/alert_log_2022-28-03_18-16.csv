@@ -1,0 +1,10 @@
+6: RSI 4 period open 1min; Alert: indicator < 3000000
+7: RSI 4 period high 1min; Alert: indicator < 3000000
+8: RSI 4 period low 1min; Alert: indicator < 3000000
+9: RSI 4 period close 1min; Alert: indicator < 3000000
+ticker,alert_msg,at_time
+6: RSI 4 period open 1min; Alert: indicator < 3000000
+7: RSI 4 period high 1min; Alert: indicator < 3000000
+8: RSI 4 period low 1min; Alert: indicator < 3000000
+9: RSI 4 period close 1min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

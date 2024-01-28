@@ -1,0 +1,35 @@
+We need an API endpoint to query the druid server for a feed of Tweets, ordered by time (descending - latest first).
+
+The API should return the row level Tweets with the following information:
+
+Tweet Text
+
+Poster Follower Count
+
+Poster Following Count
+
+Poster Listed Count
+
+Tweet Engagement
+
+Poster username handle (e.g. @ChatterQuant)
+
+Time of tweet
+
+Tweet keywords (array)
+
+Tweet ID
+
+The API should support pagination of results (scrolling), and go back up to 1 month.
+
+Only Tweets with a keywords array should be returned.
+
+Filtering should be available by asset class inclusion (e.g. include stocks, etf, crypto, forex, indices?).
+
+The user should be able to provide assets to search for and keywords to search for.
+
+Example parameters:
+
+prod/dashboard/v2/twitterfeed?asset=cr_BTC&keyword=TESTING&assetClass=stocks,crypto,forex,indices
+
+100 per request

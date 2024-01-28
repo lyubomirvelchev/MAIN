@@ -1,0 +1,2 @@
+8: RelativeVolume 4 period volume 1min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

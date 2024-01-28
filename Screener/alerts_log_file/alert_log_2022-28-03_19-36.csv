@@ -1,0 +1,9 @@
+2: EMA 9 period open 3min; Alert: indicator < 3000000
+3: EMA 9 period high 3min; Alert: indicator < 3000000
+4: EMA 9 period low 3min; Alert: indicator < 3000000
+5: EMA 9 period close 3min; Alert: indicator < 3000000
+6: MA 9 period open 3min; Alert: indicator < 3000000
+7: MA 9 period high 3min; Alert: indicator < 3000000
+8: MA 9 period low 3min; Alert: indicator < 3000000
+9: MA 9 period close 3min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

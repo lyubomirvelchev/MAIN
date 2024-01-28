@@ -1,0 +1,3 @@
+3: MA 9 period close 1min; Alert: indicator < 3000000
+4: MA 20 period close 1min; Alert: indicator < 3000000
+ticker_name,3,4,at_time

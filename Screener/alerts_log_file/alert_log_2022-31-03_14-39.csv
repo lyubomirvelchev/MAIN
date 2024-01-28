@@ -1,0 +1,2 @@
+4: RSI 9 period close 2min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

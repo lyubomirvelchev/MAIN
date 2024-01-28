@@ -1,0 +1,4 @@
+3: EMA_BETTER 20 period close 3min; Alert: indicator < 3000000
+ticker_name,3,at_time
+3: EMA_BETTER 20 period close 3min; Alert: indicator < 3000000
+ticker_name,3,at_time

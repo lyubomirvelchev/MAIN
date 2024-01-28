@@ -1,0 +1,2 @@
+8: EMA 12 period high 3min; Alert: indicator < 3000000
+ticker_name,8,at_time

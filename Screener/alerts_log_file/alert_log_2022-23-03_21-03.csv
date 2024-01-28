@@ -1,0 +1,2 @@
+5: EMA 21 period open 15min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

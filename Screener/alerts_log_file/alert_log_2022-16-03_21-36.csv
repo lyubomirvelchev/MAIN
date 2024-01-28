@@ -1,0 +1,5 @@
+6: MA 10 period low 3min; Alert: indicator < 3000000
+7: MA 14 period high 3min; Alert: indicator < 3000000
+8: MA 30 period open 3min; Alert: indicator < 3000000
+9: MA 19 period close 3min; Alert: indicator < 3000000
+ticker_name,6,7,8,9,at_time

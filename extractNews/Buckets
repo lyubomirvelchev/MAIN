@@ -1,0 +1,225 @@
+?xml version="1.0"?>
+<document>
+<nitf>
+
+<head>
+<title>UNC economist: Strong(ish) jobs report aside, recession still likely. But Triad sectors may be in good shape [Business Journals News, The (US)]</title>
+</head>
+
+<body>
+
+<body.head>
+
+<hedline>
+<hl1>UNC economist: Strong(ish) jobs report aside, recession still likely. But Triad sectors may be in good shape [Business Journals News, The (US)]</hl1>
+</hedline>
+
+<distributor>Acquire Media Spider</distributor>
+
+</body.head>
+
+<body.content>
+<p> Friday&apos;s national employment report left <org value="ACORN:3698739372" idsrc="xmltag.org" >University of North Carolina</org> economist <person>Gerald Cohen</person> still seeing both pressure on the <org>Federal Reserve</org> to continue to fight inflation and a recession coming, but he also offered encouraging signs for the Triad-significant manufacturing sector.</p>
+  <p> The economy created some 263,000 jobs, the <org value="ACORN:2334039432" idsrc="xmltag.org" >U.S. Bureau of Labor Statistics</org> reported Friday, and the unemployment rate was unchanged at 3.7%.</p>
+  <p> Cohen, the chief economist at the <org>Kenan Institute of Private Enterprise</org> at the <org>UNC-Chapel Hill Kenan-Flagler Business School</org>, said in a briefing shortly after the report came out that his take is that apparent strong demand for workers in most sectors suggests the <org>Federal Reserve</org> will continue to see the need to raise interest rates to control inflation.</p>
+  <p> Cohen also cited other recent reports and data points. Among good news, in Cohen&apos;s view: Inflation of prices for goods appears to be slowing. That could help retailers if consumers sense that their buying power isn&apos;t eroding as fast now.</p>
+  <p> That might not be taking effect yet, as retail employment declined by 30,000, according to Friday&apos;s jobs surveys.</p>
+  <p> Manufacturing added 14,000 jobs, according to Friday&apos;s report. The sector may be in a relatively good spot, Cohen said, because it&apos;s still trying to meet pent-up demand for manufactured goods created by pandemic-related supply-chain problems still only now being worked through.</p>
+  <p> “When you see a downturn, usually manufacturing gets hit hard,” Cohen said. “But this might be a bit different because there have been so many supply constraints that companies are still trying to meet the demand. So the downturn in manufacturing may be less significant than … you may see historically in recessions.”</p>
+  <p> Transportation and warehousing, another major Triad sector, declined by 15,000, according to the BLS. Loses in warehousing and storage and among couriers and messengers were partially offset by gains in air transportation.</p>
+  <p> Cohen noted mixed signals in Friday&apos;s report and in other recent data releases.</p>
+  <p> For instance, there was a decline in in temporary hiring, a suggestion of labor-demand weakening in some corners of the economy. While goods inflation slowed, that&apos;s not so for services, so that inflation overall is not receding. Further, while average hourly wages were up they&apos;re not keeping pace with inflation for many workers, Cohen noted.</p>
+  <p> Also troubling is a low labor-force participation rate. The size of the labor force declined while the number of unemployed people did, too, keeping the unemployment rate level.</p>
+  <p> &quot;Labor force is the is a big challenge, because unless until we start shedding jobs, we need people to be coming into the labor force to meet those job needs. And our participation rate remains, for the population as a whole, well below pre-covid levels.&quot;</p>
+  <p> Overall, though, inflation isn&apos;t backing down, and probably the Fed isn&apos;t, either, Cohen said. But he also sees a mild recession ahead, even if it&apos;s not showing up in the data yet, Cohen concluded.</p>
+  <p> One of his strongest reasons for saying so is the spread between 10-year and three-month <org>Treasury</org> bills yields is negative. A negative spread has predicted every recession since the 1960s, Cohen said.</p>
+  <p> “Because of its track record I&apos;m saying yes, we are going to have a recession,” Cohen said. “Given the employment data today … I&apos;m going to continue to say it&apos;s not in a recession now. But this is saying that sometime in the next year to 18 months, it is very likely -- or I will say I believe that we will have a recession based on this indicator.”</p>
+</body.content>
+
+</body>
+</nitf>
+
+
+<xn:Resource xmlns:xn="http://www.xmlnews.org/namespaces/meta#">
+
+<xn:providerName>Acquire Media Spider</xn:providerName>
+<xn:providerCode>163</xn:providerCode>
+<xn:serviceName>Business News</xn:serviceName>
+<xn:serviceCode>47</xn:serviceCode>
+
+<xn:resourceID>202212031800AMSPIDERBUS_NEWS_566_2210749</xn:resourceID>
+
+<xn:publicationTime>2022-12-03T18:00:00-05:00</xn:publicationTime>
+<xn:receivedTime>2022-12-06T14:41:29-05:00</xn:receivedTime>
+
+<xn:title>UNC economist: Strong(ish) jobs report aside, recession still likely. But Triad sectors may be in good shape [Business Journals News, The (US)]</xn:title>
+
+<xn:rendition>202212031800AMSPIDERBUS_NEWS_566_2210749.xml</xn:rendition>
+
+<xn:language>en</xn:language>
+
+<xn:vendorData>WAVO:Publish Reason=ORIGINAL</xn:vendorData>
+<xn:vendorData>WAVO:alert=FALSE</xn:vendorData>
+<xn:vendorData>WAVO:headline_only=FALSE</xn:vendorData>
+<xn:vendorData>WAVO:temporary=FALSE</xn:vendorData>
+<xn:vendorData>AMX:Publish Reason=ORIGINAL</xn:vendorData>
+<xn:vendorData>AMX:Alert=FALSE</xn:vendorData>
+<xn:vendorData>AMX:Headline Only=FALSE</xn:vendorData>
+<xn:vendorData>AMX:Temporary=FALSE</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PS/p.AMSPIDER</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PS/s.BUS_NEWS</xn:vendorData>
+<xn:description>UNC economist sees good signs for Triad-important manufacturing sector even in face of inflation, recession</xn:description>
+
+<xn:vendorData>AMX:ReadKey=c00eaca03a5450721fa6ef23b429bcabf5871c818a6bfc378dc2dfabce3168a07d4013eb9fbbb522c7bfe08e84f026b9d0937b0bcbcc7adc530d84f8cf629f19</xn:vendorData>
+<xn:vendorData>AMSPIDER:Special Code=PC/t.221206144129672</xn:vendorData>
+<!-- Metabot Directory /nwsys/metabot -->
+
+<xn:vendorData>AMSPIDER:Special Code=PT/lang.en</xn:vendorData>
+<xn:vendorData>NEWSEDGE:AmxSource=SPD_bizjourncom</xn:vendorData>
+<xn:vendorData>NEWSEDGE:Special Code=PS/.SPD_bizjourncom</xn:vendorData>
+<xn:vendorData>AMSPIDER:Story Link=https://www.bizjournals.com/triad/news/2022/12/04/unc-cohen-on-december-jobs-report.html</xn:vendorData>
+<xn:vendorData>AMSPIDER:Source Name=Bizjournals</xn:vendorData>
+<xn:vendorData>AMSPIDER:Source URL=https://www.bizjournals.com</xn:vendorData>
+<xn:vendorData>AMSPIDER:Site Name=Bizjournals</xn:vendorData>
+<xn:vendorData>AMSPIDER:Site URL=https://www.bizjournals.com</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/Rank_3</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/Open</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/North_America</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/Continuously</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/Commercial</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/Medietype:_Editor</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/Mediatype:_Web</xn:vendorData>
+<xn:vendorData>AMSPIDER:Subject Code=SU/United_States</xn:vendorData>
+<xn:vendorData>AMSPIDER:Geographic Code=RE/US</xn:vendorData>
+<xn:vendorData>AMSPIDER:Special Code=PT/Opoint</xn:vendorData>
+<xn:vendorData>AMSPIDER:Special Code=PS/SPD_bizjourncom</xn:vendorData>
+<xn:vendorData>AMSPIDER:Story Lead=Friday&apos;s national employment report left University of North Carolina economist Gerald Cohen still seeing both pressure on the Federal Reserve to continue to fight inflation and a recession coming, but he also offered encouraging signs for the Triad-significant manufacturing sector. The economy created some 263,000 jobs, the U.S. Bureau of Labor Statistics reported Friday, and the unemployment ...</xn:vendorData>
+<!-- START METABOT PROCESSING -->
+
+<!-- Metabot Directory /nwsys/metabot -->
+<xn:vendorData>AMX:Company Record=|||The University of North Carolina|extractor|NECOID:5344090;ACORN:3698739372;ORBISID:314045181;UORBISID:032854246|MENTION||||XXXX|REFERENCE</xn:vendorData>
+<xn:vendorData>AMX:Company Record=|||US Bureau of Labor Statistics|extractor|NECOID:208555801;ACORN:2334039432;ORBISID:203178350;UDUNS:2653674111|MENTION||||XXXX|REFERENCE</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PC/iwc.581</xn:vendorData>
+<!-- Source -->
+<xn:vendorData>AMX:Special Code=GC/US</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PC/set</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PC/set.WL-Extended</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PC/set.WLExtNL</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PT/EXT</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PT/MTYPE</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PT/MTYPE.Text</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PT/RIGHTS</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PT/RIGHTS.NONE</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PT/TYPE</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PT/TYPE.Trade_Journ</xn:vendorData>
+<xn:vendorData>AMX:Special Code=PX/biz</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RB/nam</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RC/US</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RR/am</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RS/US</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RS/US.NC</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RU/us</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RU/us.nc</xn:vendorData>
+<xn:vendorData>AMX:Special Code=RU/us.nc.charlt</xn:vendorData>
+<!-- Mapper -->
+<xn:companyCode>ORBISID:O.314045181#6#60#60</xn:companyCode>
+<xn:companyCode>ORBISID:O.203178350#6#60#60</xn:companyCode>
+<xn:vendorData>AMX:Special Code=PC/metabot.dr-metabot6</xn:vendorData>
+<!-- Entity Extractor -->
+<xn:companyCode>ACORN:A.3698739372#6#60#60</xn:companyCode>
+<xn:companyCode>ACORN:A.2334039432#6#60#60</xn:companyCode>
+<xn:subjectCode>NZ/COID#6#50#60</xn:subjectCode>
+<xn:subjectCode>NZ/COID.208555801#6#60#60</xn:subjectCode>
+<xn:subjectCode>NZ/COID.5344090#6#60#60</xn:subjectCode>
+<xn:vendorData>AMX:Special Code=UORBISID/#7#75#50</xn:vendorData>
+<!-- Classifier -->
+<xn:subjectCode>CT/ebf#5#54#54</xn:subjectCode>
+<xn:subjectCode>CT/ebf.eco#5#54#54</xn:subjectCode>
+<xn:subjectCode>CT/ebf.eco.oth#5#54#54</xn:subjectCode>
+<xn:subjectCode>CT/ebf.eco.oth.eco#5#54#50</xn:subjectCode>
+<xn:industryCode>II/man#9#99#50</xn:industryCode>
+<xn:subjectCode>IS/biz#7#75#50</xn:subjectCode>
+<xn:subjectCode>IS/econ#9#99#82</xn:subjectCode>
+<xn:subjectCode>IS/econ.emprates#5#55#50</xn:subjectCode>
+<xn:subjectCode>IS/econ.indicate#8#82#70</xn:subjectCode>
+<xn:subjectCode>IS/econ.labor#7#70#55</xn:subjectCode>
+<xn:subjectCode>IS/lifesoc#7#50#70</xn:subjectCode>
+<xn:subjectCode>IS/lifesoc.laboremp#7#50#70</xn:subjectCode>
+<xn:subjectCode>MC/HOT#2</xn:subjectCode>
+<xn:subjectCode>MC/NRC#7#50#79</xn:subjectCode>
+<xn:subjectCode>MC/NRC.INVOP#7#79#50</xn:subjectCode>
+<xn:subjectCode>NC/67115358#6#66#50</xn:subjectCode>
+<xn:subjectCode>NC/67115651#6#60#50</xn:subjectCode>
+<xn:subjectCode>NC/67116225#6#66#50</xn:subjectCode>
+<xn:subjectCode>NC/67117137#5#50#50</xn:subjectCode>
+<xn:subjectCode>NC/67117495#7#78#50</xn:subjectCode>
+<xn:subjectCode>NC/67117505#9#98#50</xn:subjectCode>
+<xn:subjectCode>NC/67117570#5#58#50</xn:subjectCode>
+<xn:subjectCode>NC/67117644#6#63#50</xn:subjectCode>
+<xn:subjectCode>NC/67117675#5#50#50</xn:subjectCode>
+<xn:subjectCode>NC/67117792#5#58#50</xn:subjectCode>
+<xn:subjectCode>NC/67118096#7#70#50</xn:subjectCode>
+<xn:subjectCode>NC/67118174#5#55#50</xn:subjectCode>
+<xn:subjectCode>NC/67118250#6#63#50</xn:subjectCode>
+<xn:subjectCode>NC/67118271#7#78#50</xn:subjectCode>
+<xn:subjectCode>NC/67118315#7#70#50</xn:subjectCode>
+<xn:subjectCode>NC/67118433#6#66#50</xn:subjectCode>
+<xn:subjectCode>NC/67118491#6#63#50</xn:subjectCode>
+<xn:subjectCode>NC/67118493#5#57#50</xn:subjectCode>
+<xn:subjectCode>NC/67118506#9#99#50</xn:subjectCode>
+<xn:subjectCode>NC/67118613#5#58#50</xn:subjectCode>
+<xn:subjectCode>NC/67118709#5#55#50</xn:subjectCode>
+<xn:subjectCode>NC/67118994#5#56#50</xn:subjectCode>
+<xn:subjectCode>NC/67119169#5#58#50</xn:subjectCode>
+<xn:subjectCode>NC/67119350#5#53#50</xn:subjectCode>
+<xn:subjectCode>NC/67119380#5#51#50</xn:subjectCode>
+<xn:subjectCode>NC/67119384#5#58#50</xn:subjectCode>
+<xn:subjectCode>NC/67119385#6#66#50</xn:subjectCode>
+<xn:subjectCode>WD/Economy#9#99#50</xn:subjectCode>
+<xn:subjectCode>XC/any.company#6#60#50</xn:subjectCode>
+
+<!-- Rules -->
+<xn:customCode>CC/12956#9#50#99</xn:customCode>
+<xn:customCode>CC/12956.BIZREL#9#99#82</xn:customCode>
+<xn:industryCode>IN/M#9#50#99</xn:industryCode>
+<xn:industryCode>IN/M.Manufacturing#9#99#50</xn:industryCode>
+<xn:subjectCode>NE/BONDS#5#55#50</xn:subjectCode>
+<xn:subjectCode>NE/CPSVERT#5#53#50</xn:subjectCode>
+<xn:subjectCode>NE/CTPLSHLD#5#56#50</xn:subjectCode>
+<xn:subjectCode>NE/ECONWRLD#8#82#70</xn:subjectCode>
+<xn:subjectCode>NE/MANAUT#9#99#50</xn:subjectCode>
+<xn:subjectCode>NE/MINENA#6#63#50</xn:subjectCode>
+<xn:subjectCode>NE/PTCPGRP#6#63#50</xn:subjectCode>
+<xn:subjectCode>NE/PTECOSTA#9#99#50</xn:subjectCode>
+<xn:subjectCode>NE/PTFRCST#6#63#50</xn:subjectCode>
+<xn:subjectCode>NE/TRADE#9#99#82</xn:subjectCode>
+<xn:subjectCode>NT/Economy_US#5#54#54</xn:subjectCode>
+<xn:vendorData>AMX:Special Code=TT/economy#9#99#82</xn:vendorData>
+<xn:vendorData>AMX:Special Code=TT/TOPIC#9#99#82</xn:vendorData>
+<!-- Edge -->
+<xn:subjectCode>MC/IMPACT#1</xn:subjectCode>
+
+<!-- Rule Processor -->
+<xn:subjectCode>MC/XBIZREL#1</xn:subjectCode>
+<xn:subjectCode>MC/XINDUSTRY#7#75#50</xn:subjectCode>
+<xn:subjectCode>MC/XSUBJECT#7#75#50</xn:subjectCode>
+
+<!-- Post Classifier Mapping Codes -->
+<xn:subjectCode>NP/ACCTCONSLEGAL#5#53#50</xn:subjectCode>
+<xn:subjectCode>NP/ECONTRADE#9#99#82</xn:subjectCode>
+<xn:subjectCode>NP/IIRME#9#99#50</xn:subjectCode>
+<xn:subjectCode>NP/INFOTECH#5#53#50</xn:subjectCode>
+<xn:subjectCode>NP/ITCONSULTSVCS#5#53#50</xn:subjectCode>
+<xn:subjectCode>NP/MANUFACTURING#9#99#50</xn:subjectCode>
+<xn:subjectCode>NP/MARKETING#6#63#50</xn:subjectCode>
+<xn:subjectCode>NP/NATURALRESOURCE#6#63#50</xn:subjectCode>
+<xn:subjectCode>XC/any#6#50#60</xn:subjectCode>
+<xn:subjectCode>XC/any.private#6#60#50</xn:subjectCode>
+<xn:subjectCode>XC/Private#6#60#50</xn:subjectCode>
+
+<xn:vendorData>AMX:Cluster Signature=0|COHEN-INFL-LABOR-MANUFACT-RECE-TRANSPOR-TRIAD-UNEMPLO</xn:vendorData>
+<xn:vendorData>AMX:Headline Signature=ASIDE-ECONOMIS-SECTORS-SHAPE-TRIAD-UNC</xn:vendorData>
+<xn:vendorData>AMX:Special Code=MC/BASE</xn:vendorData>
+
+</xn:Resource>
+</document>

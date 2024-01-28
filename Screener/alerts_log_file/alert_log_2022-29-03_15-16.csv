@@ -1,0 +1,2 @@
+9: RSI 5 period high 5min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

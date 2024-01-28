@@ -1,0 +1,5 @@
+5: MA 21 period open 1min; Alert: indicator < 3000000
+6: MA 9 period low 1min; Alert: indicator < 3000000
+7: MA 18 period high 1min; Alert: indicator < 3000000
+8: MA 6 period close 1min; Alert: indicator < 3000000
+ticker_name,5,6,7,8,at_time

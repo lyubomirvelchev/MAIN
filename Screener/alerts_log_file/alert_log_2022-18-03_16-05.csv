@@ -1,0 +1,11 @@
+0: StockPrice close 1min; Alert: indicator < 900000
+1: MA 10 period close 5min; Alert: indicator < 1000000
+2: VWAP vwap 1min; Alert: indicator < 2000000
+3: RSI 7 period low 1min; Alert: indicator < 3000000
+4: RSI 12 period high 1min; Alert: indicator < 3000000
+5: RSI 40 period open 1min; Alert: indicator < 3000000
+6: EMA 10 period low 1min; Alert: indicator < 3000000
+7: EMA 30 period high 1min; Alert: indicator < 3000000
+8: EMA 5 period open 1min; Alert: indicator < 3000000
+9: EMA 19 period close 1min; Alert: indicator < 3000000
+ticker_name,0,1,2,3,4,5,6,7,8,9,at_time

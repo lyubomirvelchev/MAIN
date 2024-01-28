@@ -1,0 +1,35 @@
+
+
+1. pip install django
+
+
+## create new app
+2.
+@- python manage.py startapp jobs
+
+##
+make model
+
+
+##
+  register model at "{your_project}/jobs/admin.py"
+
+	- 
+	admin.site.register(Job)
+
+## migrate
+---тва буквално налива модела ти в базата данни
+
+- python manage.py makemigrations
+-python manage.py migrate
+ 
+## create super user (admin)
+
+@- python manage.py createsuperuser
+
+
+____________________________________
+
+RUNSERVER
+
+!!!!!!!!!!!!!!!!!!!@ - python manage.py runserver  !!!!!!!!!!!!!!!!!!!!!!!!

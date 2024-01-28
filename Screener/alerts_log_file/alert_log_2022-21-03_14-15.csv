@@ -1,0 +1,2 @@
+8: EMA 6 period close 1min; Alert: indicator < 3000000
+ticker_name,8,at_time

@@ -1,0 +1,5 @@
+5: RSI 14 period open 1min; Alert: indicator < 3000000
+6: RSI 14 period high 1min; Alert: indicator < 3000000
+7: RSI 14 period low 1min; Alert: indicator < 3000000
+8: RSI 14 period close 1min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

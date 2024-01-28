@@ -1,0 +1,5 @@
+5: MA 9 period open 60min; Alert: indicator < 3000000
+6: MA 9 period high 60min; Alert: indicator < 3000000
+7: MA 9 period low 60min; Alert: indicator < 3000000
+8: MA 9 period close 60min; Alert: indicator < 3000000
+ticker,alert_msg,at_time

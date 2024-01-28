@@ -1,0 +1,1 @@
+https://www.api-football.com/documentation-v3#tag/Fixtures/operation/get-fixtures-lineups

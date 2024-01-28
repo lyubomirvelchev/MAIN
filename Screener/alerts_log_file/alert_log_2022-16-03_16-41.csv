@@ -1,0 +1,4 @@
+3: MA 9 period low 1min; Alert: indicator < 3000000
+4: RSI 20 period low 1min; Alert: indicator < 3000000
+5: RSI 14 period low 1min; Alert: indicator < 3000000
+ticker_name,3,4,5,at_time
